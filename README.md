@@ -9,7 +9,7 @@ We also had to test and write code for four different sensors that improve the s
 The final part of the report involved a detailed 'Bill of Materials' for the manufacturing process of the roof which led onto a 'Design Evaluation' where we critiqued our design decisions for the convertible roof and discussed what went well and could have been done better.
 
 
-### Nacelle CAD:
+### Convertible roof bracket and gearbox CAD:
 ![fiat](./docs/fiat.png)
 
 ## UoB Academic Integrity
