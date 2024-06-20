@@ -1,4 +1,4 @@
-# convertible-roof-mechanism-design
+# Project Description
 
 My team members and I were tasked with designing a detailed convertible roof mechanism of the Fiat 595 Abarth for my final summative project for my Y2 Engineering Practice unit. 
 The project required good research skills for market research on current convertible cars which led to our preliminary concept designs that we tested on Linkage software.
@@ -7,3 +7,11 @@ We then used Autodesk Fusion 360 software to produce technical drawings of our f
 Edupack software was used to pick the best material for the roof considering our findings from the technical analysis of the roof, which then led to a detailed elaboration on the manufacturing process of our chosen metal for the roof.
 We also had to test and write code for four different sensors that improve the safety of the convertible mechanism which was done on Arduino software.
 The final part of the report involved a detailed 'Bill of Materials' for the manufacturing process of the roof which led onto a 'Design Evaluation' where we critiqued our design decisions for the convertible roof and discussed what went well and could have been done better.
+
+
+### Nacelle CAD:
+![fiat](./docs/fiat.png)
+
+## UoB Academic Integrity
+
+DO NOT COPY. Only for reference. I hereby state that I shall not be held responsible for any misuse of my work or any academic integrity violations.
